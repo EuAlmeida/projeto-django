@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "WhatABook-Django"
+version = "0.1.0"
+description = "WhatABook - Projeto Integrador - João Almeida, Gabriel Alves e Yasmin Marcelino"
+authors = ["EuAlmeida <jvda.vitor.almeida@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Django = "^4.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
