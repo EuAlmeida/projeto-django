@@ -1,1 +1,1 @@
-web: gunicorn projeto-django.wsgi
+web: gunicorn whatabook_django.wsgi
