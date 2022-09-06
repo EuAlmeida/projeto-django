@@ -1,1 +1,1 @@
-web: gunicorn whatabook_django.wsgi
+web: gunicorn whatabookdjango.wsgi
